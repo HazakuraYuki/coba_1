@@ -152,7 +152,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: susantoludevica@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/HazakuraYuki/coba_1/issues)
 
 ## 🙏 Acknowledgments
